@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template and [Firebase](https://firebase.google.com/?gclid=EAIaIQobChMIqdzz8ZGk7wIVzAN7Ch0JdQhmEAAYASAAEgJXt_D_BwE&gclsrc=aw.ds).
-This project was deployed, feel free to visit: https://snapchat-clone-f5bf3.web.app/
+This project was deployed, feel free to [visit](https://snapchat-clone-f5bf3.web.app)
 
 ## Available Scripts
 
